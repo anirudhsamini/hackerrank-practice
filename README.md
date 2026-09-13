@@ -17,3 +17,4 @@ Each file is named `YYYY-MM-DD-problem-slug.ext`.
 
 | Date | Problem | Difficulty | Language | Solution |
 |------|---------|------------|----------|----------|
+| 2026-09-13 | Solve Me First | Easy | Python | [solutions/python/2026-09-13-solve-me-first.py](solutions/python/2026-09-13-solve-me-first.py) |
